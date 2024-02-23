@@ -18,7 +18,8 @@ const config = {
 
 
         paths: {
-            relative: true,
+            relative: false,
+            base:'/util-roulette'
 
         }
 
