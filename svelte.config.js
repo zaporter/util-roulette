@@ -18,8 +18,7 @@ const config = {
 
 
         paths: {
-            relative: false,
-            base:'/pages/...'
+            relative: true,
 
         }
 
