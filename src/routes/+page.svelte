@@ -9,7 +9,7 @@
 
 <div class="w-full flex-row items-center justify-center sm:flex">
 	<Tile class="m-2 ">
-		<p><em>This guy keeps fucking flashing me!</em> - The other guys.</p>
+		<p><em>This guy keeps fucking flashing me!</em> - The other guys</p>
 	</Tile>
 </div>
 <div class="w-full flex-row items-center justify-center sm:flex">
