@@ -1,5 +1,6 @@
-# create-svelte
+# CS2 Util Roulette 💣
 
-https://api.csgonades.com/nademap/mirage?nadeType=smoke&gameMode=cs2&tickRate=any&teamSide=both&favorites=0
+Check it out:
+https://zaporter.github.io/util-roulette/
 
-https://api.csgonades.com/nades/start/pCLsUx4fyERqUGoA5AS7/end/bOxVh5Pb1BEkER1jFm6s
+Simple svelte webapp to generate random util suggestions for a given cs2 map and team. It uses nades scraped from [csgonades.com](https://www.csgonades.com/). The code is very ugly; please don't judge me.
