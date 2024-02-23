@@ -1,0 +1,2913 @@
+{
+		"T": [
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Truck",
+				"type": "smoke",
+				"youTubeId": "-n7o6c9PlBY"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "Truck",
+				"type": "smoke",
+				"youTubeId": "8H8H9StHxoE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "Truck",
+				"type": "smoke",
+				"youTubeId": "hBNYpOTPA1E"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "Truck",
+				"type": "smoke",
+				"youTubeId": "3CyYv2pDONw"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Truck",
+				"type": "smoke",
+				"youTubeId": "k6BAoXru06k"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Truck",
+				"type": "smoke",
+				"youTubeId": "1T5L1TiW124"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Graveyard",
+				"type": "smoke",
+				"youTubeId": "Ar9y1wMLLlw"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "MtH7XJsBdfU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "TASwxnGgbSs"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Top Mid",
+				"endPosition": "Arches",
+				"type": "smoke",
+				"youTubeId": "ZSVxCSwjn3c"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Arches",
+				"type": "smoke",
+				"youTubeId": "Bkz9QnLEpzQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Arches",
+				"type": "smoke",
+				"youTubeId": "XR8hYEnvRnY"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Long",
+				"type": "smoke",
+				"youTubeId": "TMwc3M30rt0"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long",
+				"type": "smoke",
+				"youTubeId": "KmjX6wogM7M"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "A Default",
+				"type": "smoke",
+				"youTubeId": "n0sq3GKlq9U"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Mini Pit",
+				"type": "smoke",
+				"youTubeId": "-2NC02phUOU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Short",
+				"type": "smoke",
+				"youTubeId": "gz-baGTckNo"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Short",
+				"type": "smoke",
+				"youTubeId": "ABOqzmuaH40"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Short",
+				"type": "smoke",
+				"youTubeId": "inFjDsokvB8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Short",
+				"type": "smoke",
+				"youTubeId": "31yHYlbkmN8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Short",
+				"type": "smoke",
+				"youTubeId": "uXDkft_3AwA"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Short",
+				"type": "smoke",
+				"youTubeId": "aOKUwQFLfds"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Short",
+				"type": "smoke",
+				"youTubeId": "6K181VstgnE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Short",
+				"type": "smoke",
+				"youTubeId": "nsFr9WVmCGo"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Short",
+				"type": "smoke",
+				"youTubeId": "Kh95COnqWIM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "dc1mf9NX3uU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "wvroxNDKTV8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "XgoVE_01bHc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "i0bAnFfbBhc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "y88fGG7ZPbo"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "pmaTcifAebA?"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "OhScVxqjvkw"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "LmbLWg35sOg"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "IW-YimQerSM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "JK9P7Zaneac"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "HRHhgVDLILA"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "LKWnbb8Gqco"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "s1qMv2oV994"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "LGJQaTDEmn8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "dW52DpA7UyM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Halfwall",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "raGDj_A7gAo"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "vD2G9thG2x8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Outside T Spawn",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "cLF0s_G3xNU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "bWlR5l-cJuA"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "I-wHEK73_pM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "FUt2ImvuXcA"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "5xF2zchAV9A"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "buDnqOmMqiE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "RCu6mxm5-sM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "l0xKU5MUAjU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Pit",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "FE6Thy8i0uI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "sGMJ_XaWlAc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "Dd-JEovjhIM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "4A-5-7rXnKI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "wdaNO6SY2NE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "H2lPX99Ocho"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "KwiuGivskfU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "6me-5L7Mwk8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Top Mid",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "E9KD699QXmA"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "V2lkv7GVXIU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Deep CT",
+				"type": "smoke",
+				"youTubeId": "EG3zCVc_nY8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Deep CT",
+				"type": "smoke",
+				"youTubeId": "KqAXtVsHZWA"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Deep CT",
+				"type": "smoke",
+				"youTubeId": "uNJWT9fZL1M"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "c4C_0k1hRvQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "5Lg7QnPfCPA"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "STAU0UQ0k_c"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "PC1p4lr__z4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "1QEcJSEqbPY"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "jQgArqPVOpc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "P3P7xq6HwT8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "Vbi57Pex0_g"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "JNqkeH7EmZU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "tv3POpAxBYw"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "ryIOQoguX-4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "CYbPoVS_pDY"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "MZC4_0LZpSU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "sWuTQkPE4Zk"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "MelfVwiRX5o"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "DlwHH_Jiqo0"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "Jida8TrUciU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "zsEHfDXTaQI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Halfwall",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "OfdSxA2LU1o"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "TNWpxTL2nlo"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "Wt9UXB-rjE8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "r9yJC0eCzN0"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Sandbags",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "tL8DyrvBNw8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bridge",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "TjLMZnAGupM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "fXcY6uV6Ot4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "IhDeOjFQjsg"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "NWkxkO1OMUs"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long",
+				"type": "smoke",
+				"youTubeId": "FnAq4j5r8PQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "WTLkYTZKzpk"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "5NXzHcTmET8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "SYcPt5vuMWU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "qDSRgDY8Kik"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "Pi-bdCMdQ2M"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "qCyHA7nISZ8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "XqrwexeWbu4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "-7vJjVpUQk8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "RErdlofzKw4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Window",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "D9BI1Grp38A"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "it1u47gjeiQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "0BrYKd8prpk"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long",
+				"type": "smoke",
+				"youTubeId": "kCA2ci0ai34"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "NWP7fReZ5RQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "3y9HX8BtiSE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "ndxwFvGL1NQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "kyIhw0NmwRg"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "QxA88VERKFY"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "5keVZ_ioJ4s"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Long",
+				"type": "smoke",
+				"youTubeId": "RWrOTaN7ol8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "65BPzNyEToY"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "FF13q-em9HI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "x2FZ3zLBrRs"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "-BMAnjc11Hk"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Window",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "EXH-3JJmjR8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "lK22QRo48no"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "g-AhX6V6vps"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "ii8GYjoRzEU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Long Corner",
+				"type": "smoke",
+				"youTubeId": "LBZ0TwTyAIU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "B Stairs",
+				"type": "smoke",
+				"youTubeId": "ENdjMNAFnSM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "B Stairs",
+				"type": "smoke",
+				"youTubeId": "vdimD4ffVPg"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Banana",
+				"type": "smoke",
+				"youTubeId": "hhC5kHZsaG4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Sandbags",
+				"type": "smoke",
+				"youTubeId": "IjKK6_L8zhs"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Pit",
+				"type": "smoke",
+				"youTubeId": "72LUvSgpt_E"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Pit",
+				"type": "smoke",
+				"youTubeId": "zFXvTG-D9Q8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Pit",
+				"type": "smoke",
+				"youTubeId": "SEw5WGE4sSQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Pit",
+				"type": "smoke",
+				"youTubeId": "9AktEZAaBgE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Pit",
+				"type": "smoke",
+				"youTubeId": "jbtF3zsLRtU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Pit",
+				"type": "smoke",
+				"youTubeId": "wvBTJiVBWac"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Pit",
+				"type": "smoke",
+				"youTubeId": "ShIGlHWr2q0"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Short",
+				"type": "smoke",
+				"youTubeId": "tJTByxnDOoE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Library",
+				"type": "smoke",
+				"youTubeId": "xrhOjYakwjE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Library",
+				"type": "smoke",
+				"youTubeId": "D_uC2YnFn2g"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Library",
+				"type": "smoke",
+				"youTubeId": "0uDbQXyF28g"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Top Mid",
+				"endPosition": "Library",
+				"type": "smoke",
+				"youTubeId": "QEiDqUq0gZc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Library",
+				"type": "smoke",
+				"youTubeId": "Pvak7NwZDlI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "A Site",
+				"endPosition": "Library",
+				"type": "smoke",
+				"youTubeId": "V9PPniyfqqg"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Library",
+				"type": "smoke",
+				"youTubeId": "3pF3uttJuVI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Library",
+				"type": "smoke",
+				"youTubeId": "rGtKlik9BrQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Library",
+				"type": "smoke",
+				"youTubeId": "slh5KIw1Tz4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "3s6unVWPMuQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "zK8Hp3QseUI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "888anbI9aaI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "Vxo-Qq-Qr5U"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "zCYjTEWH6Xw"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "Tcu_k-6YX_Q"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Top Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "5LUPyZn6mLs"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Short",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "T26K_1ukQic"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "Gthm2Bk_8r8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "-65kBYj8cFc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "mVR3-j91bKQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "LPX7lsSu3zA"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "S5E73FDtUwQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "tF8wftknB_A"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "gFi0V6_p88g"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "UDUZSN9QFwQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Top Alt Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "AgIxkcCMyEQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "-hNfieud4fw"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "bxVhLAS2NpA"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "5KIwMcEGI1I"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "bAgPw5ycN90"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "OL5EsXDPwgc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "7obGpLdRing"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Top Mid",
+				"type": "flash",
+				"youTubeId": "EDNvR3jG5vU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Top Mid",
+				"type": "flash",
+				"youTubeId": "5ibm5cNRMkQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "Top Mid",
+				"type": "flash",
+				"youTubeId": "VYql8m2LJ-g"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Short",
+				"type": "flash",
+				"youTubeId": "WEaeiycoQwU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Short",
+				"type": "flash",
+				"youTubeId": "FLGy3BQc2R4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "pUUcFj8VVGs"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "M8mSn6dBGbc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "Fy68tmeYzPE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "hOYGq_nKhb8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "pEFURH6mqw0"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "X5DZFybrvu0"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "pR_4Teco-rI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "UtrNbXqmEtE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "xW9jQvtOB98"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "fBdJht1mk1A"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Halfwall",
+				"endPosition": "B Site",
+				"type": "flash",
+				"youTubeId": "MzO7eX8Ct-M"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "B Site",
+				"type": "flash",
+				"youTubeId": "5mzxWxftkcI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "B Site",
+				"type": "flash",
+				"youTubeId": "QoZ0yJ41hk4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "B Site",
+				"type": "flash",
+				"youTubeId": "IVQr3A31RzM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "B Site",
+				"type": "flash",
+				"youTubeId": "wCirJPPs1Ho"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "B Site",
+				"type": "flash",
+				"youTubeId": "Li6FYxfR1qk"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "B Site",
+				"type": "flash",
+				"youTubeId": "HzWKAjB4dTo"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "B Site",
+				"type": "flash",
+				"youTubeId": "TR1jbvt6a5Y"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "XwwZmZF_qQU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "LxxsbXbOLqI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "pBXNUOLMtz4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Cubby",
+				"endPosition": "Top Banana",
+				"type": "flash",
+				"youTubeId": "YPp_2_jsZog"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "N84yx-cU2w4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "aGbdYu6h8v4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Halfwall",
+				"endPosition": "CT",
+				"type": "flash",
+				"youTubeId": "OcKpH2nmQKI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "CT",
+				"type": "flash",
+				"youTubeId": "yG-O6B03CFA"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "CT",
+				"type": "flash",
+				"youTubeId": "vQT8geNTiTw"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Long",
+				"type": "flash",
+				"youTubeId": "6nc1fl50zqQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Long",
+				"type": "flash",
+				"youTubeId": "mRqgtL8Madc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "Long",
+				"type": "flash",
+				"youTubeId": "Ztt7FEUfzPs"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "T Ramp",
+				"endPosition": "Mid",
+				"type": "flash",
+				"youTubeId": "J-cMwnnn74U"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "A Site",
+				"type": "flash",
+				"youTubeId": "HwONi9j3zgQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apps",
+				"endPosition": "A Site",
+				"type": "flash",
+				"youTubeId": "yyvy1j7Bu_U?"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "A Site",
+				"type": "flash",
+				"youTubeId": "GZgEDt1D7Fc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "A Site",
+				"type": "flash",
+				"youTubeId": "pbS0WmrMWhY"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Top Mid",
+				"endPosition": "A Site",
+				"type": "flash",
+				"youTubeId": "_gSW4jXxn-g"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Apartments",
+				"type": "flash",
+				"youTubeId": "RqWFkevN_vU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Apartments",
+				"type": "flash",
+				"youTubeId": "6n1nq3IrGzM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Apartments",
+				"type": "flash",
+				"youTubeId": "MSAx7Lgc3Io"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "B Site",
+				"type": "flash",
+				"youTubeId": "vWgulmCY_nI"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "B Entrance",
+				"type": "flash",
+				"youTubeId": "NQ67-vlCIkY"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "B Entrance",
+				"type": "flash",
+				"youTubeId": "dgaoOIHf9Tk"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Dark",
+				"type": "molotov",
+				"youTubeId": "Y8GRQVM3o8E"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Dark",
+				"type": "molotov",
+				"youTubeId": "sjShtfuVQNE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Sandbags",
+				"type": "molotov",
+				"youTubeId": "cLj2LTeY28g"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "Pit",
+				"type": "molotov",
+				"youTubeId": "aK3F0Fvbj20"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "Pit",
+				"type": "molotov",
+				"youTubeId": "RIDpKeFUngo"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Boiler",
+				"type": "molotov",
+				"youTubeId": "DWeDlTuQdjg"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "A Default",
+				"type": "molotov",
+				"youTubeId": "iA5xciFbRXY"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Car",
+				"type": "molotov",
+				"youTubeId": "pzBI-MBA76o"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Car",
+				"type": "molotov",
+				"youTubeId": "QTu0ud_zQCQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "B Entrance",
+				"type": "molotov",
+				"youTubeId": "b1rATcjoaQE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Long",
+				"endPosition": "Mini Pit",
+				"type": "molotov",
+				"youTubeId": "_L-WphtkhyM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Apartments",
+				"endPosition": "Mini Pit",
+				"type": "molotov",
+				"youTubeId": "GLxOh9FNlWs"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bridge",
+				"endPosition": "Apartments",
+				"type": "molotov",
+				"youTubeId": "wBS4zS8XPSs"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Second Mid",
+				"endPosition": "Apps",
+				"type": "molotov",
+				"youTubeId": "IZV3G8m4R4Y"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Apartments",
+				"type": "molotov",
+				"youTubeId": "WNeqcRLJ8dA"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "2nd Mid",
+				"endPosition": "Apartments",
+				"type": "molotov",
+				"youTubeId": "YuoWyXO16ho"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Bridge",
+				"endPosition": "Apartments",
+				"type": "molotov",
+				"youTubeId": "adijIw_Weh4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Coffins",
+				"type": "molotov",
+				"youTubeId": "onlHfCZfj68?"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Coffins",
+				"type": "molotov",
+				"youTubeId": "HYnVFScfYK0"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "molotov",
+				"youTubeId": "4woj8Nb4z3I"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "2nd Oranges",
+				"type": "molotov",
+				"youTubeId": "8QnZWfL7avU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "2nd Oranges",
+				"type": "molotov",
+				"youTubeId": "Z9QlcK_lqNw"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Quad",
+				"type": "molotov",
+				"youTubeId": "0u0hB_W67Ho"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Quad",
+				"type": "molotov",
+				"youTubeId": "ssR0KmjReS4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "Quad",
+				"type": "molotov",
+				"youTubeId": "xOJ-a561jb8"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Sandbags",
+				"endPosition": "Quad",
+				"type": "molotov",
+				"youTubeId": "Ptb38hxKGU4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "B Entrance",
+				"endPosition": "Quad",
+				"type": "molotov",
+				"youTubeId": "zeyKLRqInYc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Patio",
+				"type": "molotov",
+				"youTubeId": "B3qspkE7EJ4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Patio",
+				"type": "molotov",
+				"youTubeId": "xSa0TamWzBM"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Long",
+				"type": "molotov",
+				"youTubeId": "UofwVzshmZQ"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Mid",
+				"endPosition": "Long",
+				"type": "molotov",
+				"youTubeId": "lNHoZo58icw"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "1St Oranges",
+				"type": "molotov",
+				"youTubeId": "QLljpB4DKwE"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "1st Oranges",
+				"type": "molotov",
+				"youTubeId": "1ObXbHYcuws"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "1st Oranges",
+				"type": "molotov",
+				"youTubeId": "aZhhLBo4n4Y"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "1St Oranges",
+				"type": "molotov",
+				"youTubeId": "fY8z26vR0w4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "1st Oranges",
+				"type": "molotov",
+				"youTubeId": "9Pt0FDELJbk"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "1St Oranges",
+				"type": "molotov",
+				"youTubeId": "3AmVdJUKKyg"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Sandbags",
+				"type": "hegrenade",
+				"youTubeId": "1eyAR6B-G40"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "Sandbags",
+				"type": "hegrenade",
+				"youTubeId": "jjZozzYAEwU"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Car",
+				"endPosition": "CT",
+				"type": "hegrenade",
+				"youTubeId": "XpwseyDe4kg"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "B Site",
+				"endPosition": "CT",
+				"type": "hegrenade",
+				"youTubeId": "kHZ9DM4_gWc"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "B Entrance",
+				"type": "hegrenade",
+				"youTubeId": "XIH-ey-PfU4"
+			},
+			{
+				"TeamSide": "terrorist",
+				"startPosition": "Banana",
+				"endPosition": "B Entrance",
+				"type": "hegrenade",
+				"youTubeId": "X9mdrJl-mfo"
+			}
+		],
+		"CT": [
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Fountains",
+				"type": "smoke",
+				"youTubeId": "CraYJogu7AA"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Long",
+				"endPosition": "Truck",
+				"type": "smoke",
+				"youTubeId": "KHLt1c5Us-M"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Long",
+				"endPosition": "Apartments",
+				"type": "smoke",
+				"youTubeId": "46s7FLHSEQY"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Long",
+				"endPosition": "Graveyard",
+				"type": "smoke",
+				"youTubeId": "JFhLCrlRWCc"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Graveyard",
+				"type": "smoke",
+				"youTubeId": "ebwnveEPmFQ"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Graveyard",
+				"type": "smoke",
+				"youTubeId": "OqpUVg0XAc8"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Coffins",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "1vdpFSVI1dw"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Site",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "h3Qv3QN-K40"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Oranges",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "rRAtjRLvF8I"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Site",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "IRdXYJDLlEo"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "QTz-VXH8AzE"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "_82gVzLD_FA"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "LzIQToKiJko"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "tkv7D1BPEvc"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "mUc7YMaOwFE"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Graveyard",
+				"endPosition": "Car",
+				"type": "smoke",
+				"youTubeId": "rl0aEnKKj10"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "T Ramp",
+				"type": "smoke",
+				"youTubeId": "nTYkeTWCxVY"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "T Ramp",
+				"type": "smoke",
+				"youTubeId": "2m6K8Jdwnq8"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "T Ramp",
+				"type": "smoke",
+				"youTubeId": "s82nHdJvNnU"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "T Ramp",
+				"type": "smoke",
+				"youTubeId": "k96ImKMJj1Q"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Entrance",
+				"endPosition": "T Ramp",
+				"type": "smoke",
+				"youTubeId": "IC2gqaDChLM"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Back Alley",
+				"type": "smoke",
+				"youTubeId": "BEsDRj5zqzY"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "2nd Mid",
+				"type": "smoke",
+				"youTubeId": "JyNbMpWtxYg"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Entrance",
+				"endPosition": "Bottom Banana",
+				"type": "smoke",
+				"youTubeId": "2DFy55Mb55I"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Grill",
+				"endPosition": "Bottom Banana",
+				"type": "smoke",
+				"youTubeId": "KQg6sI-DiU4"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Coffins",
+				"endPosition": "Bottom Banana",
+				"type": "smoke",
+				"youTubeId": "ZSlEuoMYvkA"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Coffins",
+				"endPosition": "Bottom Banana",
+				"type": "smoke",
+				"youTubeId": "dn5G7wM7O-8"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Coffins",
+				"endPosition": "Bottom Banana",
+				"type": "smoke",
+				"youTubeId": "v9lvQomTpsA"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Long",
+				"endPosition": "Bottom Banana",
+				"type": "smoke",
+				"youTubeId": "YW8M2Ig1aVA"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "Bottom Banana",
+				"type": "smoke",
+				"youTubeId": "TQwzrMMegQw"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "Bottom Banana",
+				"type": "smoke",
+				"youTubeId": "DhBWVN2gy8U"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "Bottom Banana",
+				"type": "smoke",
+				"youTubeId": "zyKWzjmTb7Q"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Short",
+				"endPosition": "Bottom Banana",
+				"type": "smoke",
+				"youTubeId": "U3g3V78rhCY"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "VVSx-oKjZcs"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "tqgefPkrGXk"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "Q2Yctp_ruIg"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "S95Pin428Z8"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "WCrYeNdz1Fw"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "KWcctOJucC4"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Pit",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "V7zCyuZ8O9o"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Site",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "PcYYNlmBlJU"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Apartments",
+				"endPosition": "Apartments",
+				"type": "smoke",
+				"youTubeId": "NckO7zoqKOY"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Bottom Mid",
+				"type": "smoke",
+				"youTubeId": "HUdJWDLpeDE"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn 1",
+				"endPosition": "Mid",
+				"type": "smoke",
+				"youTubeId": "_h4jyApC7ro"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn 6",
+				"endPosition": "Mid",
+				"type": "smoke",
+				"youTubeId": "pquBsHNO5dU"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Mid",
+				"type": "smoke",
+				"youTubeId": "x1YmH19mZUU"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn 5",
+				"endPosition": "Mid",
+				"type": "smoke",
+				"youTubeId": "0iLkl0yAfAA"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Mid",
+				"type": "smoke",
+				"youTubeId": "MhZg8PFfSrw"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn 3",
+				"endPosition": "Mid",
+				"type": "smoke",
+				"youTubeId": "mbmcQquHuAw"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Mid",
+				"type": "smoke",
+				"youTubeId": "-lmatG9EqQw"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Mid",
+				"type": "smoke",
+				"youTubeId": "Jrh6gQ1pB6I"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn 4",
+				"endPosition": "Mid",
+				"type": "smoke",
+				"youTubeId": "PWSAlRK6R5k"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Top Mid",
+				"endPosition": "Mid",
+				"type": "smoke",
+				"youTubeId": "X53nJOJiooQ"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "B Stairs",
+				"type": "smoke",
+				"youTubeId": "h1BDxDey13U"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Banana",
+				"type": "smoke",
+				"youTubeId": "TjCS8ItcZyg"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Banana",
+				"type": "smoke",
+				"youTubeId": "OnxxIYskyf8"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "Stairs",
+				"type": "smoke",
+				"youTubeId": "ayu4FDLMmHw"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "LCjnCqRJR00"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "qN_iZvnZh_k"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Graveyard",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "RNLWSCtxDVc"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Long",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "iy0j5FNm66Y"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Long",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "vwK9D4k19dI"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "rz7DhOXDaN0"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "aHAIKPe4DOw"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT Spawn",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "Lo_Zyd7GCEU"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Pit",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "eas2vOkSDN4"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Pit",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "m2O7msXeky8"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Coffins",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "2hzUKAgeki0"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Car",
+				"endPosition": "Bottom Mid",
+				"type": "flash",
+				"youTubeId": "Z-s97fDH2WA"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Pit",
+				"endPosition": "Top Mid",
+				"type": "flash",
+				"youTubeId": "mwlzkmLaHy4"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Pit",
+				"endPosition": "Top Mid",
+				"type": "flash",
+				"youTubeId": "Bda_khfq7F0"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Moto",
+				"endPosition": "Top Mid",
+				"type": "flash",
+				"youTubeId": "KUKt_Tk7k7M"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Pit",
+				"endPosition": "Short",
+				"type": "flash",
+				"youTubeId": "00q1NJp-TQM"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Coffins",
+				"endPosition": "Car",
+				"type": "flash",
+				"youTubeId": "eez41wPnuus"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Coffins",
+				"endPosition": "Car",
+				"type": "flash",
+				"youTubeId": "eEYQzkUygM4"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Ruins",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "-xOdUIhQQ5k"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "Car",
+				"type": "flash",
+				"youTubeId": "mFNvNDEbntY"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "Car",
+				"type": "flash",
+				"youTubeId": "qH7rpwlnt2w"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "Car",
+				"type": "flash",
+				"youTubeId": "Rum16yX4I2g"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Site",
+				"endPosition": "Car",
+				"type": "flash",
+				"youTubeId": "nWY5YYNd1Mk"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Entrance",
+				"endPosition": "Car",
+				"type": "flash",
+				"youTubeId": "z9JIIBES6oI"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Sandbags",
+				"endPosition": "Car",
+				"type": "flash",
+				"youTubeId": "miMvRnctVb8"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "B Entrance",
+				"type": "flash",
+				"youTubeId": "4arWNDIuB-0"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Site",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "iMWR_Tqjd1M"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Dark",
+				"endPosition": "Banana",
+				"type": "flash",
+				"youTubeId": "FCvM6xg0IA8"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Long",
+				"endPosition": "Top Mid",
+				"type": "flash",
+				"youTubeId": "UEUr_wJrMXg"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Oranges",
+				"endPosition": "Sandbags",
+				"type": "flash",
+				"youTubeId": "Y_0ygqnOqAc"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Oranges",
+				"endPosition": "B Entrance",
+				"type": "flash",
+				"youTubeId": "a9FTStD4Hag"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Oranges",
+				"endPosition": "B Entrance",
+				"type": "flash",
+				"youTubeId": "0QPWavRVj7M"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Quad",
+				"endPosition": "B Entrance",
+				"type": "flash",
+				"youTubeId": "_S7rF_rYIYo"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Construction",
+				"endPosition": "B Entrance",
+				"type": "flash",
+				"youTubeId": "BG7ee01CfJ4"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Entrance",
+				"endPosition": "Bottom Banana",
+				"type": "molotov",
+				"youTubeId": "YtXZ4remQwU"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Entrance",
+				"endPosition": "Bottom Banana",
+				"type": "molotov",
+				"youTubeId": "kTV200t7A5k"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Entrance",
+				"endPosition": "Bottom Banana",
+				"type": "molotov",
+				"youTubeId": "LFrKxkBpgtk"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Entrance",
+				"endPosition": "Bottom Banana",
+				"type": "molotov",
+				"youTubeId": "_6PvEpSJc0U"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "A Site",
+				"endPosition": "Boiler",
+				"type": "molotov",
+				"youTubeId": "6rBhCxfF_T0"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Moto",
+				"endPosition": "Top Mid",
+				"type": "molotov",
+				"youTubeId": "TEWgJhH1LCI"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Long",
+				"endPosition": "A Site",
+				"type": "molotov",
+				"youTubeId": "1ZR3FhN1Ckw"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Pit",
+				"endPosition": "Apartments",
+				"type": "molotov",
+				"youTubeId": "hpcbwknFZF4"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Long",
+				"endPosition": "A Default",
+				"type": "molotov",
+				"youTubeId": "7o1vAHMVeFc"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Site",
+				"endPosition": "Car",
+				"type": "molotov",
+				"youTubeId": "U59PaVZGskM"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Site",
+				"endPosition": "Car",
+				"type": "molotov",
+				"youTubeId": "T9HvyWJJk5Y"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Oranges",
+				"endPosition": "Car",
+				"type": "molotov",
+				"youTubeId": "oxY2V200Qrw"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Oranges",
+				"endPosition": "Car",
+				"type": "molotov",
+				"youTubeId": "o8bOLniAa-w"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Oranges",
+				"endPosition": "Car",
+				"type": "molotov",
+				"youTubeId": "NHWzEemKf3s"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Coffins",
+				"endPosition": "Car",
+				"type": "molotov",
+				"youTubeId": "qB3O4Q4j83M"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Library",
+				"endPosition": "Mini Pit",
+				"type": "molotov",
+				"youTubeId": "Swd_LzW0ma0"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Pit",
+				"endPosition": "Apartments",
+				"type": "molotov",
+				"youTubeId": "F78IbzCqNvA"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "B Default",
+				"type": "molotov",
+				"youTubeId": "mq2dGfcEPPY"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "B Default",
+				"type": "molotov",
+				"youTubeId": "EVAJNRaQNiQ"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "B Default",
+				"type": "molotov",
+				"youTubeId": "MQXgwYiedyc"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "Quad",
+				"type": "molotov",
+				"youTubeId": "7sEJUFnxmJk"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "Quad",
+				"type": "molotov",
+				"youTubeId": "hOuhVHLQuPA"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "CT",
+				"endPosition": "B Default",
+				"type": "hegrenade",
+				"youTubeId": "GfxTb46JJCg"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "Long",
+				"endPosition": "A Default",
+				"type": "hegrenade",
+				"youTubeId": "sU6Sec9GqQQ"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Site",
+				"endPosition": "Car",
+				"type": "hegrenade",
+				"youTubeId": "MBKV-nRXHCA"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Entrance",
+				"endPosition": "Banana",
+				"type": "hegrenade",
+				"youTubeId": "aCmWSMOsi2A"
+			},
+			{
+				"TeamSide": "counterTerrorist",
+				"startPosition": "B Entrance",
+				"endPosition": "Banana",
+				"type": "hegrenade",
+				"youTubeId": "khDj8LOF4qI"
+			}
+		],
+		"Both": [
+			{
+				"TeamSide": "both",
+				"startPosition": "A Site",
+				"endPosition": "Truck",
+				"type": "smoke",
+				"youTubeId": "9o5TomUonTY"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Long",
+				"endPosition": "Graveyard",
+				"type": "smoke",
+				"youTubeId": "znxN5B7juzg"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Top Mid",
+				"endPosition": "Long",
+				"type": "smoke",
+				"youTubeId": "sxfb1WcbLEc"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "2nd Mid",
+				"endPosition": "Long",
+				"type": "smoke",
+				"youTubeId": "u4a6-Jf9m-I?"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "CT Spawn",
+				"endPosition": "T Ramp",
+				"type": "smoke",
+				"youTubeId": "FAz0nArhnhY"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "B Site",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "0uUgGeR7asQ"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Oranges",
+				"endPosition": "CT",
+				"type": "smoke",
+				"youTubeId": "ij3EenLIdss"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Coffins",
+				"endPosition": "Top Mid",
+				"type": "smoke",
+				"youTubeId": "N5iZXgNYR_k"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Banana",
+				"endPosition": "Coffins",
+				"type": "smoke",
+				"youTubeId": "FYEw2SbIulU"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Bottom Mid",
+				"endPosition": "Pit",
+				"type": "smoke",
+				"youTubeId": "MIay8WfrKGk"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Short",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "Rstb0xiq4JY"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "A Site",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "AdPYjlnVuno"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "A Site",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "kR0b4zTBexc"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "A Site",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "SuNoHEwc1lE"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Pit",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "xq-KotzV2II"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Pit",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "ed04INDoJ1g"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Pit",
+				"endPosition": "Moto",
+				"type": "smoke",
+				"youTubeId": "cFXigUeAYo8"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Short",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "UtFzATr49-s"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Moto",
+				"endPosition": "B Entrance",
+				"type": "smoke",
+				"youTubeId": "hxI11g2Ljmo"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Top Mid",
+				"endPosition": "Second Mid",
+				"type": "flash",
+				"youTubeId": "ymqsGpD1v2I"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Graveyard",
+				"endPosition": "Apartments",
+				"type": "flash",
+				"youTubeId": "rh3M9kMg4Mo"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Moto",
+				"endPosition": "Long",
+				"type": "flash",
+				"youTubeId": "HELePTNojm0"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Banana",
+				"endPosition": "B Entrance",
+				"type": "flash",
+				"youTubeId": "enMzR7gC6QA"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "CT Spawn",
+				"endPosition": "Pool",
+				"type": "flash",
+				"youTubeId": "1GDTH3MTetQ"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Construction",
+				"endPosition": "B Entrance",
+				"type": "flash",
+				"youTubeId": "yVqNnqI8siI"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Dark",
+				"endPosition": "B Entrance",
+				"type": "flash",
+				"youTubeId": "Y_eB4sqSxok"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Coffins",
+				"endPosition": "Dark",
+				"type": "molotov",
+				"youTubeId": "alzftoLAzeo"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Sandbags",
+				"endPosition": "Dark",
+				"type": "molotov",
+				"youTubeId": "XO8fYpjhCuk"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "B Entrance",
+				"endPosition": "Bottom Banana",
+				"type": "molotov",
+				"youTubeId": "RSXmnao1W1w"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Long",
+				"endPosition": "Pit",
+				"type": "molotov",
+				"youTubeId": "FbuCRHF22y0"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Apartments",
+				"endPosition": "Pit",
+				"type": "molotov",
+				"youTubeId": "VUAhckQ6nWM"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Top Mid",
+				"endPosition": "Pit",
+				"type": "molotov",
+				"youTubeId": "YH0NoxwNCCc"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Long",
+				"endPosition": "A Site",
+				"type": "molotov",
+				"youTubeId": "CVanklj3sdU"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Construction",
+				"endPosition": "Pool",
+				"type": "molotov",
+				"youTubeId": "RUCaWcWxcx4"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Coffins",
+				"endPosition": "Banana",
+				"type": "molotov",
+				"youTubeId": "Hd4a6H6Jy94"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Long",
+				"endPosition": "Mini Pit",
+				"type": "molotov",
+				"youTubeId": "La8lFtismuE"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "CT",
+				"endPosition": "B Default",
+				"type": "molotov",
+				"youTubeId": "2TUdnRr00Ps"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Car",
+				"endPosition": "B Default",
+				"type": "molotov",
+				"youTubeId": "HjbAgmUWvk4"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Car",
+				"endPosition": "2nd Oranges",
+				"type": "molotov",
+				"youTubeId": "Q425R-MvRCw"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Car",
+				"endPosition": "2nd Oranges",
+				"type": "molotov",
+				"youTubeId": "N_q6feapdVY"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "B Entrance",
+				"endPosition": "2nd Oranges",
+				"type": "molotov",
+				"youTubeId": "bj-PF7XgKPc"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Car",
+				"endPosition": "1St Oranges",
+				"type": "molotov",
+				"youTubeId": "JRP6cfjqu8U"
+			},
+			{
+				"TeamSide": "both",
+				"startPosition": "Car",
+				"endPosition": "1st Oranges",
+				"type": "hegrenade",
+				"youTubeId": "gQrELvk708w"
+			}
+		]
+	}
