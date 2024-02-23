@@ -1,4 +1,4 @@
-# CS2 Util Roulette 💣
+# Counter-Strike 2 Util Roulette 💣
 
 Check it out:
 https://zaporter.github.io/util-roulette/
