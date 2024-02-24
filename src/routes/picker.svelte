@@ -98,7 +98,14 @@
 		<Button kind="danger" disabled>Generate</Button>
 	{/if}
 	{#if selectedVid}
-        <p>You must throw this util this round:</p>
+		<p>
+			You must throw a
+			<span class="text-[#ccba7c]">{selectedVid.startPosition}</span>
+			→
+			<span class="text-[#50d71e]">{selectedVid.endPosition}</span>
+			<span class="text-[#de9b35]">{selectedVid.type}</span>
+			:
+		</p>
 		<iframe
 			width="803"
 			height="480"

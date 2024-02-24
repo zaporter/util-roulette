@@ -8,12 +8,30 @@
 </div>
 
 <div class="w-full flex-row items-center justify-center sm:flex">
-	<Tile class="m-2 ">
-		<p><em>This guy keeps fucking flashing me!</em> - The other guys</p>
+	<Tile class="m-3 -rotate-1">
+		<p><em>This guy keeps fucking flashing me!</em> <br />- The other guys</p>
 	</Tile>
 </div>
 <div class="w-full flex-row items-center justify-center sm:flex">
-	<Tile class="m-14 ">
+	<Tile class="m-10 ">
 		<Picker />
 	</Tile>
 </div>
+
+<style>
+	@keyframes animatedBackground {
+		from {
+			background-position: 98% 0;
+			background-size: 50%;
+		}
+		to {
+			background-position: 100% 0;
+			background-size: 51%;
+		}
+	}
+	:global(body) {
+		background-image: url('./molly.webp');
+		background-position: 0px 0px;
+		animation: animatedBackground 1s linear infinite alternate;
+	}
+</style>
