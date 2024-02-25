@@ -104,16 +104,17 @@
 			→
 			<span class="text-[#50d71e]">{selectedVid.endPosition}</span>
 			<span class="text-[#de9b35]">{selectedVid.type}</span>
-			:
+			this round:
 		</p>
-		<iframe
-			width="803"
-			height="480"
-			src="https://www.youtube.com/embed/{selectedVid.youTubeId}"
-			title="roulette util video"
-			frameborder="0"
-			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-			allowfullscreen
-		></iframe>
+		<div class="w-[65vw] pb-[56.25%] relative">
+			<iframe
+                class="w-full h-full absolute"
+				src="https://www.youtube.com/embed/{selectedVid.youTubeId}"
+				title="roulette util video"
+				frameborder="0"
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+				allowfullscreen
+			></iframe>
+		</div>
 	{/if}
 </div>
